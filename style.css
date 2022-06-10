@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+
+.udc{
+    font-family: 'Dhurjati', sans-serif;
+    font-size: 60px;
+}
+
+/* second section */
+.hip-hop{
+    font-family: 'Jura', sans-serif;
+}
+
+/* third section */
+.section3{
+    font-family: 'Jura', sans-serif;
+}
+
+/* 4th section */
+.come{
+    font-family: 'Jura', sans-serif;
+ }
+
+/* footer */
+.name1{
+    font-family: 'Dhurjati', sans-serif;
+    font-size: 60px;
+}
+.footer ul li a{
+    font-family: 'Jura', sans-serif;
+}
+
